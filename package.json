@@ -1,0 +1,14 @@
+{
+  "name": "simple-transduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/francisrstokes/simple-transduce"
+  },
+  "scripts": {},
+  "author": "Francis Stokes",
+  "license": "ISC"
+}
